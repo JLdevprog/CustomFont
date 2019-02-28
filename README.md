@@ -1,5 +1,5 @@
 CustomFont
 
-(Free Use for non commercial purpose) 
+(Free Use for non commercial purpose)
 
 J.L.DevProg ©
